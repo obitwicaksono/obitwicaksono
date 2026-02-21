@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 A student who has a strong desire to innovate in an opportunity. Hello, my name is Robertho Wicaksono, usually called Obit. I have experience in visual creative field and interested in IT industry, especially web development. I have been involved in organizations since junior high school, being a problem solver and finding innovations or new ideas.<br><br>🌱 I’m currently learning Flutter
 
 
