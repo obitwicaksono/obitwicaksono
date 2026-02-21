@@ -1,6 +1,15 @@
-# 💫 About Me
-A student who has a strong desire to innovate in an opportunity. Hello, my name is Robertho Wicaksono, usually called Obit. I have experience in visual creative field and interested in IT industry, especially web development. I have been involved in organizations since junior high school, being a problem solver and finding innovations or new ideas.<br><br>🌱 I’m currently learning Flutter
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Obit
+=============================================================================================================================
 
+Mobile Developer
+----------------
+
+A student who has a strong desire to innovate in an opportunity. Hello, my name is Robertho Wicaksono, usually called Obit. I have experience in visual creative field and interested in IT industry, especially web and mobile development. I have been involved in organizations since junior high school, being a problem solver and finding innovations or new ideas.
+
+* 🌍  I'm based in Indonesia
+* ✉️  You can contact me at [obitwicaksono@gmail.com](mailto:obitwicaksono@gmail.com)
+* 🧠  I'm currently learning Flutter
+* 💬  Ask me about Information System student at Universitas Merdeka Malang
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/obitwicaksono) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robertho-wicaksono) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:obitwicaksono@gmail.com) 
