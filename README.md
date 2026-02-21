@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Obit
 =============================================================================================================================
 
-A student who has a strong desire to innovate in an opportunity. Hello, my name is Robertho Wicaksono, usually called Obit. I have experience in visual creative field and interested in IT industry, especially web and mobile development. I have been involved in organizations since junior high school, being a problem solver and finding innovations or new ideas.
+A student who has a strong desire to innovate in an opportunity. I have experience in visual creative field and interested in IT industry, especially web and mobile development. I have been involved in organizations since junior high school, being a problem solver and finding innovations.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [obitwicaksono@gmail.com](mailto:obitwicaksono@gmail.com)
