@@ -6,7 +6,7 @@ A student who has a strong desire to innovate in an opportunity. Hello, my name 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [obitwicaksono@gmail.com](mailto:obitwicaksono@gmail.com)
 * 🧠  I'm currently learning Flutter
-* 💬  Ask me about Information System student at Universitas Merdeka Malang
+* ⚡  Information System student at University of Merdeka Malang
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/obitwicaksono) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robertho-wicaksono) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:obitwicaksono@gmail.com) 
